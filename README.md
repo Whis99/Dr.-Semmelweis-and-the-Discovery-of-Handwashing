@@ -5,5 +5,3 @@ Dr. Semmelweis, troubled by this alarming mortality rate, identified the culprit
 join us on a data analysis journey as we revisit the historical data that led Dr. Semmelweis to advocate for the simple yet revolutionary practice of 
 handwashing. Explore the insights that changed the course of medical history and discover the significance of hygiene in healthcare through the lens of 
 Dr. Semmelweis' groundbreaking work.
-
-#ramewo
